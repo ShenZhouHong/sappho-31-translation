@@ -6,32 +6,56 @@ Interlinear gloss of the original Aeolic Greek fragment, seperated by stanzas, a
 ### Stanza 1
 | Greek word       | Type  | Gloss | Meaning |
 |------------------|-------|-------|---------|
-| φαίνεταί |   |   |   |
-| μοι           |   |   |   |
-| κῆνος      |   |   |   |
-| ἴσος        |   |   |   |
-| θέοισιν   |   |   |   |
+| φαίνεταί | Verb | 3rd. sg. md. φαίνω | [He/she/it] appears |
+| μοι           | Pronoun | enclitic dat. sg. | me |
+| κῆνος      | Demonstrative Pronoun | masc. (?) ἐκεῖνος | that |
+| ἴσος        | Adjective | masc. (?) | same |
+| θέοισιν   | Noun | Thessalian form of dat. pl. θεοῖς | the gods |
+
+#### Preliminary Translation:
+He appears to me that the same as the Gods.
+
+#### Translator's notes:
+* κῆνος	and ἴσος are both declined in the masculine form, so the subject of the sentence is presumably male.
 
 | Greek word       | Type  | Gloss | Meaning |
 |------------------|-------|-------|---------|
-| ἔμμεν᾽   |   |   |   |
-| ὤνηρ,       |   |   |   |
-| ὄττις      |   |   |   |
-| ἐνάντιός|   |   |   |
-| τοι           |   |   |   |
+| ἔμμεν᾽   | Verb | ἔμμεναι, εἶναι | to be |
+| ὤνηρ,       | Noun | masc. nom. ὁ ἀνήρ | the man/husband |
+| ὄττις      | Pronoun (?) | masc. (?) nom. (?) | whoever/whichever |
+| ἐνάντιός| Adjective | masc. nom. | opposite / facing |
+| τοι           | Pronoun | N/A | You |
+
+#### Preliminary Translation:
+The man whoever to be opposite you.
+
+#### Translator's notes:
+* ἐνάντιός is in the same declension as ὤνηρ, hence it must be modifying ὤνηρ.
+* Likewise the same has to be said of ὄττις.
 
 | Greek word       | Type  | Gloss | Meaning |
 |------------------|-------|-------|---------|
-| ἰσδάνει  |   |   |   |
-| καὶ          |   |   |   |
-| πλάσιον   |   |   |   |
-| ἆδυ          |   |   |   |
-| φωνεί-      |   |   |   |
+| ἰσδάνει  | Verb | 3rd. sg. ἰζάνω | He/she/it sits |
+| καὶ          | Conjunction | N/A | and |
+| πλάσιον   | Noun | Masc. sg. | near, close to |
+| ἆδυ          | Noun (?) | Given in worksheet | pleasant, sweet |
+| φωνεί-      | Verb (?) | Unclear, noted as "Aeolic present participle" in gen. sg. fem. | speak, give utterance |
+
+#### Preliminary Translation:
+And he sits close to you, [you] speak[ing] sweetly
+
+#### Translator's notes:
+* Although much of the words are unclear, it is important to distinguish between the masculine subject and the feminine actor. In the sentence, πλάσιον is masculine, presumably applying to the actor of ἰσδάνει, while φωνεί is feminine, presumably applying to the narrator.
 
 | Greek word       | Type  | Gloss | Meaning |
 |------------------|-------|-------|---------|
-| σας           |   |   |   |
-| ὐπακούει|   |   |   
+| σας           | Pronoun |   | your |
+| ὐπακούει| Verb | 3rd. sg. | give ear/ listen to
+
+#### Preliminary Translation
+Listening to [you]
+
+#### Translator's notes:
 
 ### Stanza 2
 | Greek word       | Type  | Gloss | Meaning |
