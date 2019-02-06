@@ -60,11 +60,11 @@ Listening to [you]
 ### Stanza 2
 | Greek word       | Type  | Gloss | Meaning |
 |------------------|-------|-------|---------|
-| καὶ          |   |   |   |
-| γελαίσας |   |   |   |
-| ἰμέροεν, |   |   |   |
+| καὶ          | Conjunction | N/A | and |
+| γελαίσας | Verb | gen. sg. fem. γελάω | (of) laugh |
+| ἰμέροεν, | Adjective (?) |   | exciting desire, lovely, charming |
 | τό             |   |   |   |
-| μ᾽            |   |   |   |
+| μ᾽            | Pronoun | μοι | Me |
 | ἦ              |   |   |   |
 | μὰν          |   |   |   |
 
