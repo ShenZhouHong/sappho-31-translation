@@ -1,6 +1,7 @@
 # Sappho Fragment 31 Translation, by Shen
 2018 Freshmen Language translation of Sappho fragment #31 (a love poem). Glossed and translated by Shen Zhou Hong [`<shong@sjc.edu>`](mailto:shong@sjc.edu)
 
+![A preview of the polished translation](translated.png)
 
 ## Interlinear gloss
 Interlinear gloss of the original Aeolic Greek fragment, seperated by stanzas, and by individual sentences from within the stanzas.
